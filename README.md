@@ -10,7 +10,9 @@ Expanding my knowledge of IT, cloud technologies, and cybersecurity through the 
 University of Seoul — B.A. in International Relations
 
 💡 Core Skills & Interests
-Grammar · Academic Writing · Educational Technology
+Grammar · Academic Writing · Educational Technology 
+Technology: Networking, Linux, Cloud Security
+Educational Technology, AI-Assisted Learning, TESOL
 
 💼 Professional Experience
 Jeonbuk Bank Customer Service Center, English Customer Service Representative | 2023–2025
