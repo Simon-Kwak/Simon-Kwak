@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm MuSung! English Language Instructor | University of Seoul Graduate | Passionate about English Education, AI & Programming.
 <!--
 **Simon-Kwak/Simon-Kwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
