@@ -11,7 +11,9 @@ University of Seoul — B.A. in International Relations
 
 💡 Core Skills & Interests
 Grammar · Academic Writing · Educational Technology 
+
 Technology: Networking, Linux, Cloud Security
+
 Educational Technology, AI-Assisted Learning, TESOL
 
 💼 Professional Experience
