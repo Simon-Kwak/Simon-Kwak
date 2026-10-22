@@ -3,6 +3,7 @@ I'm MuSung! English Language Instructor | University of Seoul Graduate | Passion
 
 🚀 What I'm Currently Doing
 English Education · Reading Comprehension · Critical Thinking
+
 Expanding my knowledge of IT, cloud technologies, and cybersecurity through the High-Tech Program at Korea Polytechnics.
 
 🎓 Education
