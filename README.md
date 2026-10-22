@@ -1,29 +1,27 @@
 ## Hi there 👋
 I'm MuSung! English Language Instructor | University of Seoul Graduate | Passionate about English Education, AI & Programming.
 
-🚀 What I'm Currently Doing
-English Education · Reading Comprehension · Critical Thinking
+What I'm Currently Doing
+🚀 English Education · Reading Comprehension · Critical Thinking
+🚀 Expanding my knowledge of IT, cloud technologies, and cybersecurity
 
-Expanding my knowledge of IT, cloud technologies, and cybersecurity through the High-Tech Program at Korea Polytechnics.
+Education
+🎓University of Seoul — B.A. in International Relations
 
-🎓 Education
-University of Seoul — B.A. in International Relations
+Core Skills & Interests
+💡Grammar · Academic Writing · Educational Technology 
+💡Technology: Networking, Linux, Cloud Security
+💡Educational Technology, AI-Assisted Learning, TESOL
 
-💡 Core Skills & Interests
-Grammar · Academic Writing · Educational Technology 
 
-Technology: Networking, Linux, Cloud Security
+Professional Experience
+💼Jeonbuk Bank Customer Service Center, English Customer Service Representative | 2023–2025
 
-Educational Technology, AI-Assisted Learning, TESOL
+International Experience
+🌍New York City United States· Liverpool, United Kingdom
 
-💼 Professional Experience
-Jeonbuk Bank Customer Service Center, English Customer Service Representative | 2023–2025
-
-🌍 International Experience
-New York City United States· Liverpool, United Kingdom
-
-🏅 Certifications
-CCNA · CCST · SC-900 · CPPG
+Certifications
+🏅 CCNA · CCST · SC-900 · CPPG
 
 <!--
 **Simon-Kwak/Simon-Kwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
